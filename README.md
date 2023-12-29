@@ -1,1 +1,1 @@
-# interviw_prep_quiz_portal
+# Interview preparation Quiz Portal
